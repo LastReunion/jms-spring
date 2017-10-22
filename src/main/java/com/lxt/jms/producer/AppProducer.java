@@ -5,6 +5,8 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 /**
  * @author liuxutao-64
  * @create 2017-10-21 15:57
+ *
+ * https://github.com/jovezhao/nest/tree/master/nest-ddd
  */
 public class AppProducer {
 
